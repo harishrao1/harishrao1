@@ -1,5 +1,4 @@
-<h1 align="center">Hello 👋, I'm HarishRao Rangineni</h1>
-<h3 align="center">Frontend Developer at Extraaedge</h3>
+# **HarishRao R** | Software Developer at [Extraaedge](https://www.extraaedge.com) 
 
 
 - 🌱 I’m currently working on **React**
