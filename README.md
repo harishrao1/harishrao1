@@ -13,6 +13,7 @@
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=harishrao1&layout=compact&bg_color=30,000000,4B0082&title_color=ffffff&text_color=ffffff)
 
+[![HarishRao's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=harishrao1&theme=merko)](https://github.com/harishrao1/github-readme-activity-graph)
 
 ### 🌐 Let's Connect
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/harishrao-rangineni-669b99233)
