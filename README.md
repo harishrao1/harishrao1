@@ -24,7 +24,7 @@ Currently exploring AI integrations and preparing for senior frontend roles.
 - **Performance optimization** — Code splitting, lazy loading, and Webpack bundle optimization across CRM modules
 
 **Personal Projects**
-- **AI Mock Interviewer** *(in progress)* — React + TypeScript + Claude API. Paste a JD, get tailored questions, answer them, receive AI feedback with scores
+- **[AI Mock Interviewer](https://ai-mock-interviewer-coral.vercel.app/)** — React + TypeScript + Groq API (LLaMA 3.1). Paste a JD, get tailored questions, answer them, receive structured AI feedback with scores and improvement areas
 
 ---
 
@@ -41,3 +41,4 @@ Currently exploring AI integrations and preparing for senior frontend roles.
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/harishrao-rangineni-669b99233)
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:harishrao1846@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/harishrao1)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio-harishrao.vercel.app/)
