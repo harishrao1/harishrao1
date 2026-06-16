@@ -30,9 +30,9 @@ Currently exploring AI integrations and preparing for senior frontend roles.
 
 ### 📊 GitHub Stats
 
-![Harish Rao's GitHub Stats](https://github-readme-stats.vercel.app/api?username=harishrao1&show_icons=true&theme=default&hide_border=true&count_private=true)
+![Harish Rao's GitHub Stats](https://github-readme-stats.vercel.app/api?username=harishrao1&show_icons=true&theme=transparent&hide_border=true&count_private=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=harishrao1&layout=compact&theme=default&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=harishrao1&layout=compact&theme=transparent&hide_border=true)
 
 ---
 
